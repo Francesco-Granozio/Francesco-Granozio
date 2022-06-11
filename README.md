@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi there :computer:
+## Hi there :computer:
 
 I am Francesco Granozio currently studying `Computer Science` at the <a href="https://www.unisa.it/" target="_blank">University of Salerno</a> (2020 - now). <br>
 I am a programming enthusiast with great creativity, my goal is to increase my knowledge day by day
