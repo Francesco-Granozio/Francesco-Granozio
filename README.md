@@ -47,7 +47,6 @@ I am a programming enthusiast with great creativity, my goal is to increase my k
     <img alt="MySQLWorkbench" src="https://img.shields.io/badge/MySQLWorkBench-white?style=for-the-badge&logo=mysql&logoColor=white%22" height="25px" />
     <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-222222?style=for-the-badge&logo=visualstudio&logoColor=6c4ea1" height="25px" />
     <img alt="RStudio" src="https://img.shields.io/badge/R%20Studio-f7f7f7?style=for-the-badge&logo=Rstudio&logoColor=75aadb" height="25px"/>
-" height="25px"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git?style=for-the-badge&logoColor=white" height="25px"/>
 <img alt="atom" src="https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white" height="25px"/>
 
