@@ -1,6 +1,6 @@
 ## Hi there :computer:
 
-I am Francesco Granozio currently studying `Computer Science` at the <a href="https://www.unisa.it/" target="_blank">University of Salerno</a> (2020 - now). <br>
+I am Francesco Granozio and I hold a Bachelor's degree in `Computer Science` at the <a href="https://www.unisa.it/" target="_blank">University of Salerno</a> (2020 - 2023). <br>
 I am a programming enthusiast with great creativity, my goal is to increase my knowledge day by day.
 
 <p align="center">I :heart: coding</p>
