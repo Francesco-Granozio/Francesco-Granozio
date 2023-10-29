@@ -9,9 +9,16 @@ I am a programming enthusiast with great creativity, my goal is to increase my k
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francesco-Granozio&count_private=true&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco-Granozio&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francesco-Granozio&theme=tokyonight" /> 
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco-Granozio&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true"/>
 </div>
+
+<p align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Francesco-Granozio&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Francesco-Granozio&theme=tokyonight" /> 
+</p>
+
+
 
  - 🙋All about me is at <b><a href="https://francescogranozio.altervista.org/" target="_blank">my Portfolio</a></b>
 
