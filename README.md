@@ -7,9 +7,10 @@ I am a programming enthusiast with great creativity, my goal is to increase my k
 
 <hr/>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francesco-Granozio&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco-Granozio&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Francesco-Granozio&count_private=true&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco-Granozio&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true"/>
 </div>
 
  - 🙋All about me is at <b><a href="https://francescogranozio.altervista.org/" target="_blank">my Portfolio</a></b>
