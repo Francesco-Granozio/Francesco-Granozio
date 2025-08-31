@@ -5,8 +5,8 @@ I am a programming enthusiast with great creativity, my goal is to increase my k
 
 <p align="center">I :heart: coding</p>
 
+<p align="center"> 🙋‍♂️ All about me is at my <a href="https://francescogranozio.altervista.org/" target="_blank">Portfolio</a></p>
 <hr/>
-
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francesco-Granozio&theme=tokyonight" /> 
