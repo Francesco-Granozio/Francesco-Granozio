@@ -19,9 +19,6 @@ I am a programming enthusiast with great creativity, my goal is to increase my k
 </p>
 
 
-
- - 🙋All about me is at <b><a href="https://francescogranozio.altervista.org/" target="_blank">my Portfolio</a></b>
-
 ## 🛠️ Languages:
 
 <p>
